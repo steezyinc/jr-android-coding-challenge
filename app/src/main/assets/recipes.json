@@ -1,0 +1,411 @@
+{
+  "recipes": [
+    {
+      "ingredients": [
+        {
+          "name": "Peanut Butter",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Jelly",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Bread",
+          "amount": "2 slices"
+        }
+      ],
+      "isFavorite": false,
+      "name": "PB&J Sandwich",
+      "id": 0,
+      "description": "A quick to make sandwich that reminds you of childhood."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": "1 lb"
+        },
+        {
+          "name": "Tomato Sauce",
+          "amount": "16 oz"
+        },
+        {
+          "name": "Ground Beef",
+          "amount": "1 lb"
+        },
+        {
+          "name": "Garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Spaghetti",
+      "id": 1,
+      "description": "A simple pasta dish to make on a moment's notice."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Red Bell Pepper",
+          "amount": "1"
+        },
+        {
+          "name": "Green Bell Pepper",
+          "amount": "1"
+        },
+        {
+          "name": "Yellow Bell Pepper",
+          "amount": "1"
+        },
+        {
+          "name": "Vegetable Broth",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Rice",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Mushrooms",
+          "amount": "8 oz"
+        },
+        {
+          "name": "Garlic",
+          "amount": "3 cloves"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Vegan Paella",
+      "id": 2,
+      "description": "A different twist on a classic Spanish recipe"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Chosen Brand of Oats",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Water",
+          "amount": "1 cup"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Oatmeal",
+      "id": 3,
+      "description": "Get creative with your favorite oatmeal toppings!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Bacon",
+          "amount": "3 strips"
+        },
+        {
+          "name": "Shredded Cheddar",
+          "amount": "1 cup"
+        }
+      ],
+      "isFavorite": false,
+      "name": "4 Ingredient Omelette",
+      "id": 4,
+      "description": "An enjoyable and easy breakfast to make! Add and remove your own ingredients as you like"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Spam",
+          "amount": "4 slices"
+        },
+        {
+          "name": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Oyster Sauce",
+          "amount": "1 tbsp"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Spam Fried Rice",
+      "id": 5,
+      "description": "This is a very easy fried rice to make at any time of the day!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Potato Starch",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Tofu",
+          "amount": "16 oz"
+        },
+        {
+          "name": "Garlic",
+          "amount": "2 cloves"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Fried Tofu",
+      "id": 6,
+      "description": "Deep fried tofu which suits any hunger needs."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Carrots",
+          "amount": "3"
+        },
+        {
+          "name": "Onions",
+          "amount": "2"
+        },
+        {
+          "name": "Garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "Tomatoes",
+          "amount": "3"
+        },
+        {
+          "name": "Potatoes",
+          "amount": "3"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Roasted Veggies",
+      "id": 7,
+      "description": "An easy baking of your favorite veggies!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Ground Beef",
+          "amount": "1 lb"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Tomato",
+          "amount": "1"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Torta",
+      "id": 8,
+      "description": "A Filipino dish made from these simple 4 ingredients!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Chile Verde Salsa",
+          "amount": "16 Oz"
+        },
+        {
+          "name": "Chicken Breasts",
+          "amount": "4"
+        },
+        {
+          "name": "Paprika",
+          "amount": "2 tsp"
+        },
+        {
+          "name": "Chicken Stock",
+          "amount": "2 cups"
+        }
+      ],
+      "isFavorite": false,
+      "name": "1 Pot Chicken Chile Verde",
+      "id": 9,
+      "description": "A fantastic Crockpot recipe to make overnight or while at work!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Bok Choy",
+          "amount": "1/2 lb"
+        },
+        {
+          "name": "Beef Short Ribs",
+          "amount": "2.5 lb"
+        },
+        {
+          "name": "Potatoes",
+          "amount": "5"
+        },
+        {
+          "name": "Onions",
+          "amount": "2"
+        },
+        {
+          "name": "Fish Sauce",
+          "amount": "2 tbsp"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Beef Soup",
+      "id": 10,
+      "description": "This is an easy yet flavorful 5 ingredient soup."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Soy Sauce",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Onions",
+          "amount": "2"
+        },
+        {
+          "name": "Flank Steak",
+          "amount": "1.5 lb"
+        },
+        {
+          "name": "Calamansi",
+          "amount": "1"
+        },
+        {
+          "name": "Vinegar",
+          "amount": "1 cup"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Beef Steak",
+      "id": 11,
+      "description": "An amazing and easy to make dish that has both flavors of salty and sweet."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Mayo",
+          "amount": "1 tbsp"
+        },
+        {
+          "name": "Cheddar Cheese",
+          "amount": "2 slices"
+        },
+        {
+          "name": "Bread",
+          "amount": "2 slices"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Grilled Cheese",
+      "id": 12,
+      "description": "Spread mayo on either side of the sandwich before grilling for a great take on this classic sandwich."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Salmon Fillet",
+          "amount": "1"
+        },
+        {
+          "name": "Oil",
+          "amount": "1 tbsp"
+        },
+        {
+          "name": "Lemon",
+          "amount": "1"
+        },
+        {
+          "name": "Asparagus",
+          "amount": "2"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Baked Salmon",
+      "id": 13,
+      "description": "A great dish that can be enjoyed baked or cooked on the stove top!"
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Green Onion",
+          "amount": "2 bunches"
+        },
+        {
+          "name": "Pancake Mix",
+          "amount": "3 cups"
+        },
+        {
+          "name": "Water",
+          "amount": "2 cups"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Green Onion Pancake",
+      "id": 14,
+      "description": "A 3 ingredient easy dish to snack on."
+    },
+    {
+      "ingredients": [
+        {
+          "name": "Unsweet Organic Soy Milk",
+          "amount": "2 cups"
+        },
+        {
+          "name": "Organic Creamy Chocolate Fudge Protein Powder",
+          "amount": "1 scoop"
+        },
+        {
+          "name": "Frozen Blueberries",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "Organic Whole Chia Seeds",
+          "amount": "1 tbsp"
+        },
+        {
+          "name": "Creamy Peanut Butter",
+          "amount": "3 tbsp"
+        },
+        {
+          "name": "Whole Flaxseed",
+          "amount": "2 tbsp"
+        },{
+          "name": "Roasted Cashews",
+          "amount": "1 oz"
+        }
+      ],
+      "isFavorite": false,
+      "name": "Optimal Smoooooth",
+      "id": 15,
+      "description": "A smoothie that will blast you through your day! Looking for a quick, healthy option to get you back at your keyboard? Look no further than OPTIMAL SMOOOOOTH. The one smoothie to rule them all. Mix all those ingredients into a blender and grind em up until you got your self a cup of deliciousness. Never go hungry again and solve the hunger that matters most NOW!"
+    }
+  ]
+}
